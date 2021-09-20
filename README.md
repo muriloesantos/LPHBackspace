@@ -1,3 +1,4 @@
+<hr>
 <h1>Oi, tudo bem com você?👋</h1>
 <p>Sou o Leandro Custódio, mas pode me chamar de Leo se quiser! 😄</p>
 <hr>
