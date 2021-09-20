@@ -25,4 +25,4 @@
 -📕 Estudo Sistemas de Informação na FMU<br>
 -📘 Atualmente estou estudando Programação em JavaScript no Instituto PROA<br>
 -📨 Você pode entrar em contato comigo pelo e-mail: leandro.oliveiracustodio02@hotmail.com
-
+<hr>
