@@ -22,7 +22,9 @@
     <a href="https://twitter.com/Leo_Backspace" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target=""_blank></a>
       <a href="https://www.tiktok.com/@lph_backspace?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target=""_blank></a>
 <hr>    
--📕 Estudo Sistemas de Informação na FMU<br>
--📘 Atualmente estou estudando Programação em JavaScript no Instituto PROA<br>
--📨 Você pode entrar em contato comigo pelo e-mail: leandro.oliveiracustodio02@hotmail.com
+-🎂 Nascimento: 18/01/2002<br>    
+-📕 Estudo Sistemas de Informação na FMU "2021-2025"<br>
+-📘 Atualmente Estou Estudando Programação em JavaScript no Instituto PROA "2021"<br>
+-🏡 Possuo Tecnologo em Edificações na Etec Itaquera II "2018-2020 / Ensino Técnico Integrado ao Médiio"<br>
+-📨 Você Pode Entrar em Contato Comigo Pelo E-mail: leandro.oliveiracustodio02@hotmail.com
 <hr>
