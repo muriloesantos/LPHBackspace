@@ -1,7 +1,8 @@
-Oi, tudo bem com você?👋<br>
-Sou o Leandro Custódio, mas pode me chamar de Leo se quiser! 😄
+<h1>Oi, tudo bem com você?👋</h1>
+<p>Sou o Leandro Custódio, mas pode me chamar de Leo se quiser! 😄</p>
 <hr>
 <div>
+  <p>Aqui estão minhas estatísticas do GitHub 💻</p>
   <a href="https://github.com/LPHBackspace">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LPHBackspace&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPHBackspace&layout=compact&langs_count=7&theme=dark"/>
