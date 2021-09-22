@@ -23,7 +23,7 @@
     <a href="https://twitter.com/Leo_Backspace" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target=""_blank></a>
       <a href="https://www.tiktok.com/@lph_backspace?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target=""_blank></a>
 <hr>    
--🎂 Nascimento: 18/01/2002<br>    
+-🎂 Nascido em 18/01/2002<br>    
 -📕 Estudo Sistemas de Informação na FMU "2021-2025"<br>
 -📘 Atualmente Estou Estudando Programação em JavaScript no Instituto PROA "2021"<br>
 -🏡 Possuo Tecnologo em Edificações na Etec Itaquera II "2018-2020 / Ensino Técnico Integrado ao Médio"<br>
