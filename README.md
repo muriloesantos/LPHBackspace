@@ -13,7 +13,7 @@
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="leo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img height="130em" align="right" alt="Leo-Jotaro-GIF" src="https://cdn.discordapp.com/attachments/835310511540666368/891400769838915644/jotaro-kujo-gif-8.gif">
+  <img height="130em" align="right" alt="Leo-Jotaro-GIF" src="https://cdn.discordapp.com/attachments/835310511540666368/891401817785766008/3cf57951b4593d7d1eb7f1fd14cc96f877a584a2_hq.gif">
   
 </div>
   <hr>
