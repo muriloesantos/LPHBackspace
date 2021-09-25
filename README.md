@@ -13,7 +13,7 @@
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="leo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img height="160em" align="right" alt="Rei-Leo" src="https://cdn.discordapp.com/attachments/835310511540666368/891399827496267796/96877.gif">
+  <img height="130em" align="right" alt="Rei-Leo" src="https://cdn.discordapp.com/attachments/835310511540666368/891399827496267796/96877.gif">
   
 </div>
   <hr>
