@@ -30,4 +30,4 @@
 -📨 Você Pode Entrar em Contato Comigo Pelo E-mail: leandro.oliveiracustodio02@hotmail.com
 <hr>
 
-<!-- ![Snake animation](https://https://github.com/LPHBackspace/LPHBackspace/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://https://github.com/LPHBackspace/LPHBackspace/blob/output/github-contribution-grid-snake.svg)
