@@ -28,6 +28,6 @@
 -🎂 Nascido em 18/01/2002<br>    
 -📕 Estudo Sistemas de Informação na FMU "2021-2025"<br>
 -📘 Atualmente Estou Estudando Programação em JavaScript no Instituto PROA "2021"<br>
--🏡 Possuo Tecnologo em Edificações na Etec Itaquera II "2018-2020 / Ensino Técnico Integrado ao Médio"<br>
+-🏡 Possuo Tecnólogo em Edificações na Etec Itaquera II "2018-2020 / Ensino Técnico Integrado ao Médio"<br>
 -📨 Você Pode Entrar em Contato Comigo Pelo E-mail: leandro.oliveiracustodio02@hotmail.com
 <hr>
