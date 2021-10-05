@@ -30,4 +30,4 @@
 -📘 Atualmente Estou Estudando Programação em JavaScript no Instituto PROA "2021"<br>
 -🏡 Possuo Tecnólogo em Edificações na Etec Itaquera II "2018-2020 / Ensino Técnico Integrado ao Médio"<br>
 -📨 Você Pode Entrar em Contato Comigo Pelo E-mail: leandro.oliveiracustodio02@hotmail.com
-<hr>
+</hr>
